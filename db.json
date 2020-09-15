@@ -1,0 +1,73 @@
+{"usuarios":[
+  {
+  "id": 1,
+  "carlos": "Dennie",
+  "apellidos": "Sheahan",
+  "corre": "dsheahan0@cbsnews.com",
+  "genero": "Male",
+  "clave": "153.83.72.158"
+}, {
+  "id": 2,
+  "carlos": "Hagan",
+  "apellidos": "Eunson",
+  "corre": "heunson1@engadget.com",
+  "genero": "Male",
+  "clave": "160.29.150.4"
+}, {
+  "id": 3,
+  "carlos": "Florida",
+  "apellidos": "Sangwin",
+  "corre": "fsangwin2@baidu.com",
+  "genero": "Female",
+  "clave": "200.235.111.214"
+}, {
+  "id": 4,
+  "carlos": "Karin",
+  "apellidos": "Dahlgren",
+  "corre": "kdahlgren3@weibo.com",
+  "genero": "Female",
+  "clave": "193.199.97.67"
+}, {
+  "id": 5,
+  "carlos": "Magda",
+  "apellidos": "Darlasson",
+  "corre": "mdarlasson4@lulu.com",
+  "genero": "Female",
+  "clave": "30.22.182.185"
+}, {
+  "id": 6,
+  "carlos": "Lucius",
+  "apellidos": "Congreve",
+  "corre": "lcongreve5@com.com",
+  "genero": "Male",
+  "clave": "203.115.192.55"
+}, {
+  "id": 7,
+  "carlos": "Karlens",
+  "apellidos": "Till",
+  "corre": "ktill6@slashdot.org",
+  "genero": "Male",
+  "clave": "88.227.176.99"
+}, {
+  "id": 8,
+  "carlos": "Rodge",
+  "apellidos": "Churchouse",
+  "corre": "rchurchouse7@utexas.edu",
+  "genero": "Male",
+  "clave": "87.208.219.170"
+}, {
+  "id": 9,
+  "carlos": "Valida",
+  "apellidos": "Allchorn",
+  "corre": "vallchorn8@mapy.cz",
+  "genero": "Female",
+  "clave": "18.199.3.197"
+}, {
+  "id": 10,
+  "carlos": "Ailyn",
+  "apellidos": "Cretney",
+  "corre": "acretney9@webeden.co.uk",
+  "genero": "Female",
+  "clave": "221.48.125.248"
+}]
+}
